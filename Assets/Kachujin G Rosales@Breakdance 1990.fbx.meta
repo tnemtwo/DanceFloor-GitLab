@@ -3,7 +3,37 @@ guid: 966be874b0413fd4b9b73979ddcf8046
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kachujin_MAT
+    second: {fileID: 2100000, guid: ecc150c7a5a16fe47b0a350a987f9612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kachujin_MAT_
+    second: {fileID: 2100000, guid: b97d39c23d1bf024ebce3656dfda5796, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kachujin_diffuse
+    second: {fileID: 2800000, guid: a9061466f73d0b0438b92f6326d678c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kachujin_diffuse_body
+    second: {fileID: 2800000, guid: c033c15134bd4dd4aab7c5af13958da7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kachujin_normal
+    second: {fileID: 2800000, guid: efcbdf1256b9d1747a4460a5bf9cc653, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kachujin_specular
+    second: {fileID: 2800000, guid: ed1dd6112dbd1f14689eab0d3e3ea8b8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
