@@ -266,7 +266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3c2ebd0281d691c4f992b3460cea124b, type: 3}
       propertyPath: m_Name
-      value: Ch30_nonPBR@Robot Hip Hop Dance
+      value: Pat_Ch30_nonPBR@Robot Hip Hop Dance
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
